@@ -37,21 +37,8 @@ h2 {
 	position: relative;
 }
 
-h2:before {
-	content: "";
-	background-image: url(../img/decor-heading.svg);
-	background-repeat: no-repeat;
-	background-position: 0 0;
-	position: absolute;
-	width: 102px; 
-	height: 15px;
-	left: 0px;
-	bottom: 12px;
-}
 
-
-
- .container {
+.container {
 	width: 1110px;
 	margin-left: auto;
 	margin-right: auto;
