@@ -366,3 +366,117 @@ input:checked + .production-button-item
 .production-button-item:first-of-type {
 	margin-right: 45px;	
 }
+
+.rent {
+	margin-bottom: 108px;
+
+}
+
+.rent h2 {
+	margin-bottom: 40px;
+}
+
+.rent-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.rent-cards-container {
+	border: 3px solid #005BC1;
+	width: 665px;
+	min-height: 394px;
+	padding: 27px;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.rent-nav-button {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	font-size: 0px;
+}
+
+
+.rent-cards ul {
+	width: 310px;
+	padding-right: 40px;
+	padding-left: 16px;
+}
+
+.rent-cards li {
+	margin-bottom: 20px;
+
+}
+
+.rent-description {
+	width: 350px;
+}
+
+.rent-cards {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: top;
+}
+
+.rent-cards img {
+	width: 255px;
+	height: 250px;
+}
+
+.rent-cards div {
+	margin-left: 30px;
+	margin-right: auto;
+
+}
+
+.rent h3 {
+	margin: 0;
+	margin-bottom: 30px;
+	padding: 0;
+	font-family: 'Oswald', Arial, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+}
+
+.rent-description {
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.rent-cards-container b {
+	
+	font-family: 'Oswald', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 27px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+
+
+	display: block;
+	margin: 0;
+	padding: 0;
+	margin-top: 13px;
+	margin-bottom: 45px;
+	margin-right: 120px;
+}
+
+.rent-cards ul{
+	list-style-type: disc;
+}
+
+.rent-cards ul li {
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 19px;	
+	width: 260px;
+}
