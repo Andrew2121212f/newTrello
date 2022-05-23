@@ -73,7 +73,7 @@ h2 {
 /*Header*/
 
 .main-header {
-	background-image: url(../gh-pages/img/header_bg.jpg);
+	background-image: url(img/header_bg.jpg);
 	background-color: rgba(0, 91, 193, 0.6);
 	background-repeat: no-repeat;
 	background-position: center top;
